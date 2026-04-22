@@ -13,7 +13,6 @@ I am a Graduate Student in Aeronautics and Astronautics at Birla Institute of Te
 
 My long-term goal is to develop robust, scalable, and physically interpretable reduced-order and surrogate models for reacting flow simulations, enabling faster design cycles and improved predictive fidelity for aerospace and energy applications.
 
-==========================================================================================================
 
 **Research Interests**:
 
