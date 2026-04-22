@@ -21,12 +21,12 @@ repository               : "Home/adityaIyerramesh98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic_new.jpg"
-  name             : "Aditya (Iyer) Ramesh"
+  avatar           : "my-profile-pic.jpeg"
+  name             : "Aditya Ramesh"
   pronouns         : "he/him"  
-  bio              : "Data Science Engineer at Ineuron.ai"
-  location         : "Chennai, Tamilnadu, India"
-  email            : "iyer.aditya98@yahoo.com" 
+  bio              : "Masters Student in Aerospace Engineering at Birla Institute of Technology - MESRA"
+  location         : "Chennai, TN"
+  email            : "iadityaramesh777@gmail.com" 
 
   # Repositories and software development
   github           : "adityaIyerramesh98"
